@@ -1,6 +1,7 @@
 # rcleveland_portfolio
 
-This portfolio contains sample output/deliverables mirroring my typical projects/duties as a Data Analyst with Detroit Public Schools. 
+This portfolio contains sample output/deliverables mirroring my typical projects/duties as a Data Analyst with large, urban school districts. 
+All Data in the portfolio was created for the purpose of demonstration and does not reflect real students/schools. 
 
 Included in this portfolio is the following:
   - Working folder:
