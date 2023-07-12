@@ -13,7 +13,7 @@ Included in this portfolio is the following:
      - Output csv files from R to be used in final products
   - Final 
      - Final deliverables
-      - PowerBI dashboard (pbix file and html link)
+      - PowerBI dashboard (pbix file)
       - PowerPoint Slide Deck
       - Excel Sorter
 
